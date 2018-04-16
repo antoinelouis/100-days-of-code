@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-
+<!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +28,12 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+ -->
+
+### Day 1: April 16, 2018
+
+**Today's Progress**: I've created a GitHub repo for a JS library which perform "synchronized" events on a webpage
+
+**Thoughts:** I'm slowly settling down. Two new things I'll explore : first JS library I'm creating / contributing to + first use of ES2015 only. I will start mixing both ES5 and ES2015 and refactoring while I'm getting confortable with ES2015.
+
+**Link to work:** https://github.com/antoinelouis/timeline-events-trigger
