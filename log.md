@@ -37,3 +37,12 @@
 **Thoughts:** I'm slowly settling down. Two new things I'll explore : first JS library I'm creating / contributing to + first use of ES2015 only. I will start mixing both ES5 and ES2015 and refactoring while I'm getting confortable with ES2015.
 
 **Link to work:** https://github.com/antoinelouis/timeline-events-trigger
+
+
+### Day 2: April 17, 2018
+
+**Today's Progress**: I've quickly enable NPM on the library
+
+**Thoughts:** Following this eggshead tutorial (https://egghead.io/lessons/javascript-creating-the-library-and-adding-dependencies) I've added support to NPM. Less than one hour of code but as tomorrow I'm off I'll be able to balance today's lacks.
+
+**Link to work:** same repo than Day 1
