@@ -46,3 +46,12 @@
 **Thoughts:** Following this eggshead tutorial (https://egghead.io/lessons/javascript-creating-the-library-and-adding-dependencies) I've added support to NPM. Less than one hour of code but as tomorrow I'm off I'll be able to balance today's lacks.
 
 **Link to work:** same repo than Day 1
+
+
+### Day 2: April 18, 2018
+
+**Today's Progress**: I've built the architecture for the project
+
+**Thoughts:** I kinda dropped off the eggshead tutorial in order to spend more time building actual code. I did an OOP structure which went quite smooth.
+
+**Link to work:** same repo than Day 1
