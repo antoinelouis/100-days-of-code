@@ -35,3 +35,15 @@
 **Thoughts:** Worked for the click event and used smoothscroll to simulate scroll.
 
 **Link to work:** same repo than Day 1
+
+
+
+### Day 5: April 20, 2018
+
+**Today's Progress**: Code the hover event
+
+**Thoughts:** Faced some serious difficulties, because of the `isTrusted` property on the events that is not possible to hack:
+https://developer.mozilla.org/en-US/docs/Web/API/Event/isTrusted
+Found as a fallback the possibility to get the CSS `:hover` properties and apply them directly on the element.
+
+**Link to work:** same repo than Day 1
