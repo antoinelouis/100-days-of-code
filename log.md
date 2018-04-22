@@ -58,3 +58,15 @@ Found as a fallback the possibility to get the CSS `:hover` properties and apply
 **Thoughts:** I start to doubdt about the architeture I set up for the key construction. I eventually managed to simulate all the style of the hover effect.
 
 **Link to work:** same repo than Day 1
+
+
+
+
+
+### Day 7: April 21, 2018
+
+**Today's Progress**: Manage the after hover event
+
+**Thoughts:** Just a dumb style reset. I really need to add a cursor.
+
+**Link to work:** same repo than Day 1
