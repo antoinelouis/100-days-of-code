@@ -47,3 +47,14 @@ https://developer.mozilla.org/en-US/docs/Web/API/Event/isTrusted
 Found as a fallback the possibility to get the CSS `:hover` properties and apply them directly on the element.
 
 **Link to work:** same repo than Day 1
+
+
+
+
+### Day 6: April 21, 2018
+
+**Today's Progress**: factorize the hover event
+
+**Thoughts:** I start to doubdt about the architeture I set up for the key construction. I eventually managed to simulate all the style of the hover effect.
+
+**Link to work:** same repo than Day 1
