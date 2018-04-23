@@ -70,3 +70,15 @@ Found as a fallback the possibility to get the CSS `:hover` properties and apply
 **Thoughts:** Just a dumb style reset. I really need to add a cursor.
 
 **Link to work:** same repo than Day 1
+
+
+
+
+
+### Day 7: April 21, 2018
+
+**Today's Progress**: Added a moving cursor
+
+**Thoughts:** Although I can't move it to the right position. I might need some sleep.
+
+**Link to work:** same repo than Day 1
