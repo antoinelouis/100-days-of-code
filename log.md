@@ -63,7 +63,7 @@ Found as a fallback the possibility to get the CSS `:hover` properties and apply
 
 
 
-### Day 7: April 21, 2018
+### Day 7: April 22, 2018
 
 **Today's Progress**: Manage the after hover event
 
@@ -75,10 +75,24 @@ Found as a fallback the possibility to get the CSS `:hover` properties and apply
 
 
 
-### Day 7: April 21, 2018
+### Day 8: April 23, 2018
 
 **Today's Progress**: Added a moving cursor
 
 **Thoughts:** Although I can't move it to the right position. I might need some sleep.
+
+**Link to work:** same repo than Day 1
+
+
+
+
+
+### Day 9: April 24, 2018
+
+**Today's Progress**: Refactorize event trigger
+
+**Thoughts:** I mainly cleaned up what I did so far. There is still much to clean up. I separated the events trigger and the timeline execution.
+I'm thinking about declaring events with no incidence on chronology.
+I'm also procrastinating on turning my demo into a real JS library.
 
 **Link to work:** same repo than Day 1
