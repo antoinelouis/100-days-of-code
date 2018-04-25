@@ -96,3 +96,16 @@ I'm thinking about declaring events with no incidence on chronology.
 I'm also procrastinating on turning my demo into a real JS library.
 
 **Link to work:** same repo than Day 1
+
+
+
+
+
+
+### Day 10: April 25, 2018
+
+**Today's Progress**: Add possibility to declare events relatively or not on the timeline
+
+**Thoughts:** I feel like taking a break from this project. I should focus on learning better ES2015 AND library crafting (npm) because I feel stuck.
+
+**Link to work:** same repo than Day 1
