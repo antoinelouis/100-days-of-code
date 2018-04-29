@@ -135,3 +135,17 @@ I'm also procrastinating on turning my demo into a real JS library.
 **Thoughts:** Complexity starts to grow. I think it's rather clean. I should dive more into ES2015 and react now.
 
 **Link to work:** same repo than Day 1
+
+
+
+
+
+
+
+### Day 13: April 29, 2018
+
+**Today's Progress**: Worked on the hover mechanical : now the mouse movement trigger dynamically the hover styles.
+
+**Thoughts:** I did some tutorials on ES2015 beside.
+
+**Link to work:** same repo than Day 1
