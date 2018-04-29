@@ -122,3 +122,16 @@ I'm also procrastinating on turning my demo into a real JS library.
 **Thoughts:** I have not commited yesterday, I think I got a lit late on my progress—I'll try to do better this weekend!
 
 **Link to work:** same repo than Day 1
+
+
+
+
+
+
+### Day 12: April 28, 2018
+
+**Today's Progress**: Get hoverable elements, store their positions so it trigger the hover pseudo class when mousemove occurs
+
+**Thoughts:** Complexity starts to grow. I think it's rather clean. I should dive more into ES2015 and react now.
+
+**Link to work:** same repo than Day 1
