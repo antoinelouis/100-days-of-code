@@ -37,7 +37,6 @@
 **Link to work:** same repo than Day 1
 
 
-
 ### Day 5: April 20, 2018
 
 **Today's Progress**: Code the hover event
@@ -49,8 +48,6 @@ Found as a fallback the possibility to get the CSS `:hover` properties and apply
 **Link to work:** same repo than Day 1
 
 
-
-
 ### Day 6: April 21, 2018
 
 **Today's Progress**: factorize the hover event
@@ -58,9 +55,6 @@ Found as a fallback the possibility to get the CSS `:hover` properties and apply
 **Thoughts:** I start to doubdt about the architeture I set up for the key construction. I eventually managed to simulate all the style of the hover effect.
 
 **Link to work:** same repo than Day 1
-
-
-
 
 
 ### Day 7: April 22, 2018
@@ -72,9 +66,6 @@ Found as a fallback the possibility to get the CSS `:hover` properties and apply
 **Link to work:** same repo than Day 1
 
 
-
-
-
 ### Day 8: April 23, 2018
 
 **Today's Progress**: Added a moving cursor
@@ -82,9 +73,6 @@ Found as a fallback the possibility to get the CSS `:hover` properties and apply
 **Thoughts:** Although I can't move it to the right position. I might need some sleep.
 
 **Link to work:** same repo than Day 1
-
-
-
 
 
 ### Day 9: April 24, 2018
@@ -98,10 +86,6 @@ I'm also procrastinating on turning my demo into a real JS library.
 **Link to work:** same repo than Day 1
 
 
-
-
-
-
 ### Day 10: April 25, 2018
 
 **Today's Progress**: Add possibility to declare events relatively or not on the timeline
@@ -109,10 +93,6 @@ I'm also procrastinating on turning my demo into a real JS library.
 **Thoughts:** I feel like taking a break from this project. I should focus on learning better ES2015 AND library crafting (npm) because I feel stuck.
 
 **Link to work:** same repo than Day 1
-
-
-
-
 
 
 ### Day 11: April 27, 2018
@@ -124,10 +104,6 @@ I'm also procrastinating on turning my demo into a real JS library.
 **Link to work:** same repo than Day 1
 
 
-
-
-
-
 ### Day 12: April 28, 2018
 
 **Today's Progress**: Get hoverable elements, store their positions so it trigger the hover pseudo class when mousemove occurs
@@ -137,15 +113,19 @@ I'm also procrastinating on turning my demo into a real JS library.
 **Link to work:** same repo than Day 1
 
 
-
-
-
-
-
 ### Day 13: April 29, 2018
 
 **Today's Progress**: Worked on the hover mechanical : now the mouse movement trigger dynamically the hover styles.
 
 **Thoughts:** I did some tutorials on ES2015 beside.
+
+**Link to work:** same repo than Day 1
+
+
+### Day 14: April 30, 2018
+
+**Today's Progress**: Managed the state when the mouse leave the hoverable element (reset style).
+
+**Thoughts:** I have not worked one hour. Not event 30 minutes. More like 15 😓. My work is now accessible online on netlify.
 
 **Link to work:** same repo than Day 1
