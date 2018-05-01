@@ -129,3 +129,13 @@ I'm also procrastinating on turning my demo into a real JS library.
 **Thoughts:** I have not worked one hour. Not event 30 minutes. More like 15 😓. My work is now accessible online on netlify.
 
 **Link to work:** same repo than Day 1
+
+
+### Day 15: May 1, 2018
+
+**Today's Progress**: I passed the constructor to ES6 Classes
+
+**Thoughts:** I spent some time learning features of ES6 like classes. I'm stuck right now : I don't know how I bind a instance of one class (key) to the instance of another class (timeline). I passed 'this' as a parameter to retrieve the scope between classes but it just don't work that way.
+I learned a lot today!
+
+**Link to work:** same repo than Day 1
