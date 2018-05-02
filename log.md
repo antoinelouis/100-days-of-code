@@ -139,3 +139,12 @@ I'm also procrastinating on turning my demo into a real JS library.
 I learned a lot today!
 
 **Link to work:** same repo than Day 1
+
+
+### Day 16: May 1, 2018
+
+**Today's Progress**: I changes the library into a ES6 module
+
+**Thoughts:** This was a bit tricky — I though it would be quicker. But I used the ES2015 modules which are great!
+
+**Link to work:** same repo than Day 1
