@@ -148,3 +148,12 @@ I learned a lot today!
 **Thoughts:** This was a bit tricky — I though it would be quicker. But I used the ES2015 modules which are great!
 
 **Link to work:** same repo than Day 1
+
+
+### Day 17: May 2, 2018
+
+**Today's Progress**: I did something new today. I worked on a codepen, trying hard to draw the original eurovision opening logo.
+
+**Thoughts:** I need to understand better css vars and masking / cliping.
+
+**Link to work:** https://codepen.io/antoinelouis/pen/vjJLNY
