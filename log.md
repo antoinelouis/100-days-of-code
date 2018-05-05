@@ -157,3 +157,13 @@ I learned a lot today!
 **Thoughts:** I need to understand better css vars and masking / cliping.
 
 **Link to work:** https://codepen.io/antoinelouis/pen/vjJLNY
+
+
+### Day 18: May 3, 2018
+
+**Today's Progress**: I did some refactor on the library.
+
+**Thoughts:** I finish the ES2015 class. Still fresh, there are many concepts I've not assimilated well enough. I need practice to fully get it in mind.
+I'll switch to ReactJS.
+
+**Link to work:** same repo than Day 1
