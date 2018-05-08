@@ -141,7 +141,7 @@ I learned a lot today!
 **Link to work:** same repo than Day 1
 
 
-### Day 16: May 1, 2018
+### Day 16: May 2, 2018
 
 **Today's Progress**: I changes the library into a ES6 module
 
@@ -150,7 +150,7 @@ I learned a lot today!
 **Link to work:** same repo than Day 1
 
 
-### Day 17: May 2, 2018
+### Day 17: May 3, 2018
 
 **Today's Progress**: I did something new today. I worked on a codepen, trying hard to draw the original eurovision opening logo.
 
@@ -159,7 +159,7 @@ I learned a lot today!
 **Link to work:** https://codepen.io/antoinelouis/pen/vjJLNY
 
 
-### Day 18: May 3, 2018
+### Day 18: May 4, 2018
 
 **Today's Progress**: I did some refactor on the library.
 
