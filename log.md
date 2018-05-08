@@ -167,3 +167,12 @@ I learned a lot today!
 I'll switch to ReactJS.
 
 **Link to work:** same repo than Day 1
+
+
+### Day 19: May 8, 2018
+
+**Today's Progress**: Went back on codepen
+
+**Thoughts:** I took a break to start learning React.js + watched a few videos by Ana Tudor to get inspired on the use of math in CSS.
+
+**Link to work:** https://codepen.io/antoinelouis/pen/WJdKam?editors=1100
