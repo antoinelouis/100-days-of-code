@@ -176,3 +176,12 @@ I'll switch to ReactJS.
 **Thoughts:** I took a break to start learning React.js + watched a few videos by Ana Tudor to get inspired on the use of math in CSS.
 
 **Link to work:** https://codepen.io/antoinelouis/pen/WJdKam?editors=1100
+
+
+### Day 20: May 9, 2018
+
+**Today's Progress**: Codepen done!
+
+**Thoughts:** My trigonometry and algebra knowledge were a bit dusty, but I'm happy I succeed at that codepen. Hopefully I'll do many others and it will get easier.
+
+**Link to work:** https://codepen.io/antoinelouis/pen/WJdKam?editors=1100
