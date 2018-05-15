@@ -185,3 +185,21 @@ I'll switch to ReactJS.
 **Thoughts:** My trigonometry and algebra knowledge were a bit dusty, but I'm happy I succeed at that codepen. Hopefully I'll do many others and it will get easier.
 
 **Link to work:** https://codepen.io/antoinelouis/pen/WJdKam?editors=1100
+
+
+### Day 21: May 14, 2018
+
+**Today's Progress**: New Codepen : React mastermind
+
+**Thoughts:** I skipped a few days but hey! I'm back on track! I really want to start React and I'm scared AF. Hopefully it will click soon!
+
+**Link to work:** https://codepen.io/antoinelouis/pen/YLjEoK?editors=1010
+
+
+### Day 22: May 15, 2018
+
+**Today's Progress**: Progress on React
+
+**Thoughts:** I built my first component with React! I'm still painfully gathering around all the knowledge I need to run the mastermind game I'm working on but I have the feeling it's going on the right direction!
+
+**Link to work:** https://codepen.io/antoinelouis/pen/YLjEoK?editors=1010
