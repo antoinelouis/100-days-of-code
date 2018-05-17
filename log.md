@@ -203,3 +203,20 @@ I'll switch to ReactJS.
 **Thoughts:** I built my first component with React! I'm still painfully gathering around all the knowledge I need to run the mastermind game I'm working on but I have the feeling it's going on the right direction!
 
 **Link to work:** https://codepen.io/antoinelouis/pen/YLjEoK?editors=1010
+
+
+### Day 23: May 16, 2018
+
+**Today's Progress**: I continue my progress on @reactjs : I used state / props to update my UI! 
+Another step done, soon my first mini project will be ready!
+
+**Link to work:** https://codepen.io/antoinelouis/pen/YLjEoK?editors=1010
+
+
+### Day 24: May 17, 2018
+
+**Today's Progress**: Progress on React
+
+**Thoughts:** I spent some time studying and observing examples of React apps on the React official documentation. I have a better understanding on how to structure component and pass data through them.
+
+**Link to work:** https://codepen.io/antoinelouis/pen/YLjEoK?editors=1010
