@@ -220,3 +220,12 @@ Another step done, soon my first mini project will be ready!
 **Thoughts:** I spent some time studying and observing examples of React apps on the React official documentation. I have a better understanding on how to structure component and pass data through them.
 
 **Link to work:** https://codepen.io/antoinelouis/pen/YLjEoK?editors=1010
+
+
+### Day 25: May 18, 2018
+
+**Today's Progress**: Progress on React
+
+**Thoughts:** Almost done with my first #reactjs app!
+
+**Link to work:** https://codepen.io/antoinelouis/pen/YLjEoK?editors=1010
