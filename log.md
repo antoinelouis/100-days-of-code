@@ -229,3 +229,12 @@ Another step done, soon my first mini project will be ready!
 **Thoughts:** Almost done with my first #reactjs app!
 
 **Link to work:** https://codepen.io/antoinelouis/pen/YLjEoK?editors=1010
+
+
+### Day 26: May 20, 2018
+
+**Today's Progress**: I'm done with my very first React.js App!
+
+**Thoughts:** I've had troubles managing history, I think here is where libs like Redux would help (In any case I have to figure out what it makes) and I'll do more detailed and complexe apps with React to get comfortable with it.
+
+**Link to work:** https://codepen.io/antoinelouis/pen/YLjEoK?editors=1010
