@@ -238,3 +238,14 @@ Another step done, soon my first mini project will be ready!
 **Thoughts:** I've had troubles managing history, I think here is where libs like Redux would help (In any case I have to figure out what it makes) and I'll do more detailed and complexe apps with React to get comfortable with it.
 
 **Link to work:** https://codepen.io/antoinelouis/pen/YLjEoK?editors=1010
+
+
+### Day 27: June 11, 2018
+
+**Today's Progress**: Back on the race
+
+**Thoughts:** I've been seriously struggling to get back on track lately after a hackathon + heavy load of work.
+I've started making my next portfolio.
+
+**Link to work:** https://github.com/antoinelouis/portfolio-2019
+
