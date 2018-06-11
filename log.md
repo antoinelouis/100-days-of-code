@@ -249,3 +249,12 @@ I've started making my next portfolio.
 
 **Link to work:** https://github.com/antoinelouis/portfolio-2019
 
+
+### Day 28: June 12, 2018
+
+**Today's Progress**: Working on portfolio
+
+**Thoughts:** I have not leart anything today but I'm havig fun building my portfolio. Good ol' HTML/CSS with smart thoughts in it.
+
+**Link to work:** https://github.com/antoinelouis/portfolio-2019
+
