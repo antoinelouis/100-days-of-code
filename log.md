@@ -266,3 +266,12 @@ I've started making my next portfolio.
 **Thoughts:** Ditto than yesterday. I started the page project and I'm quite happy with the structure I have in mind! Looking forward experimenting the transitions!
 
 **Link to work:** https://github.com/antoinelouis/portfolio-2019
+
+
+### Day 30: June 13, 2018
+
+**Today's Progress**: Working on portfolio
+
+**Thoughts:** I worked on page Project tonight.
+
+**Link to work:** https://github.com/antoinelouis/portfolio-2019
