@@ -275,3 +275,12 @@ I've started making my next portfolio.
 **Thoughts:** I worked on page Project tonight.
 
 **Link to work:** https://github.com/antoinelouis/portfolio-2019
+
+
+### Day 31: June 14, 2018
+
+**Today's Progress**: Working on portfolio
+
+**Thoughts:** I almost for now with the static behaviour! Foundations are there, I'll move to reponsive and small interactions as soon as tomorrow!
+
+**Link to work:** https://github.com/antoinelouis/portfolio-2019
