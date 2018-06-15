@@ -284,3 +284,12 @@ I've started making my next portfolio.
 **Thoughts:** I almost for now with the static behaviour! Foundations are there, I'll move to reponsive and small interactions as soon as tomorrow!
 
 **Link to work:** https://github.com/antoinelouis/portfolio-2019
+
+
+### Day 32: June 15, 2018
+
+**Today's Progress**: Working on portfolio
+
+**Thoughts:** I have started the JS. This is my favorite part since this is where the challenge is. I shad a long day so I was not really efficient tonight ☹
+
+**Link to work:** https://github.com/antoinelouis/portfolio-2019
