@@ -302,3 +302,12 @@ I've started making my next portfolio.
 **Thoughts:** Done the page project (almost)
 
 **Link to work:** https://github.com/antoinelouis/portfolio-2019
+
+
+### Day 34: June 17, 2018
+
+**Today's Progress**: Working on portfolio
+
+**Thoughts:** Finished the page project! I'm happy, it really is what I had in mind. I'll clean up the JS file before I move forward.
+
+**Link to work:** https://github.com/antoinelouis/portfolio-2019
