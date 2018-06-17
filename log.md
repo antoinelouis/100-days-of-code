@@ -207,7 +207,7 @@ I'll switch to ReactJS.
 
 ### Day 23: May 16, 2018
 
-**Today's Progress**: I continue my progress on @reactjs : I used state / props to update my UI! 
+**Today's Progress**: I continue my progress on @reactjs : I used state / props to update my UI!
 Another step done, soon my first mini project will be ready!
 
 **Link to work:** https://codepen.io/antoinelouis/pen/YLjEoK?editors=1010
@@ -291,5 +291,14 @@ I've started making my next portfolio.
 **Today's Progress**: Working on portfolio
 
 **Thoughts:** I have started the JS. This is my favorite part since this is where the challenge is. I shad a long day so I was not really efficient tonight ☹
+
+**Link to work:** https://github.com/antoinelouis/portfolio-2019
+
+
+### Day 33: June 16, 2018
+
+**Today's Progress**: Working on portfolio
+
+**Thoughts:** Done the page project (almost)
 
 **Link to work:** https://github.com/antoinelouis/portfolio-2019
