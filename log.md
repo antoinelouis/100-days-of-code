@@ -311,3 +311,21 @@ I've started making my next portfolio.
 **Thoughts:** Finished the page project! I'm happy, it really is what I had in mind. I'll clean up the JS file before I move forward.
 
 **Link to work:** https://github.com/antoinelouis/portfolio-2019
+
+
+### Day 35: June 18, 2018
+
+**Today's Progress**: Working on portfolio
+
+**Thoughts:** My Javascript file is all neat and clean! I realise all the flaws in the UX now that I can start to use the website though.
+
+**Link to work:** https://github.com/antoinelouis/portfolio-2019
+
+
+### Day 36: June 19, 2018
+
+**Today's Progress**: Working on portfolio
+
+**Thoughts:** The skills component is done.
+
+**Link to work:** https://github.com/antoinelouis/portfolio-2019
